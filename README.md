@@ -5,7 +5,6 @@ Portfolio site for a regional web design competition
 # Examples
 
 ![0-screenshot](https://github.com/SENYa-408/school-competition-project/blob/main/readme-imgs/0-screenshot.png)
-![1-screenshot](https://github.com/SENYa-408/school-competition-project/blob/main/readme-imgs/1-screenshot.png)
 
 # Install
 
